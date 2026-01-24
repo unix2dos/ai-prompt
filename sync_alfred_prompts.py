@@ -9,7 +9,7 @@ from pathlib import Path
 
 # 配置
 ALFRED_SNIPPETS_BASE = Path.home() / "workspace/LevonConfig/App/Alfred/Alfred.alfredpreferences/snippets"
-OUTPUT_DIR = Path(__file__).parent / "4_杂项"
+OUTPUT_DIR = Path(__file__).parent
 
 # 源文件夹 -> 输出文件名 映射
 FOLDER_MAPPING = {
