@@ -29,7 +29,7 @@
 
 ### 6_blog润色（6.5/10)
 
-使用 technical-content-optimizer skills 润色下这篇博客，在合适的地方运用 mermaid-generator skills 生成图表。
+使用 technical-content-optimizer skill 润色下这篇文章，在合适的地方运用 mermaid-generator skill 生成图表。
 
 ### 7_技术文章审核
 
