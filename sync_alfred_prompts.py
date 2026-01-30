@@ -15,12 +15,14 @@ OUTPUT_DIR = Path(__file__).parent
 FOLDER_MAPPING = {
     "ai_prompt_code": "Alfred_Code.md",
     "ai_prompt_study": "Alfred_Study.md",
+    "ai_prompt_tool": "Alfred_Tool.md",
 }
 
 # Markdown 标题映射
 TITLE_MAPPING = {
     "ai_prompt_code": "Alfred AI Prompt - Code",
     "ai_prompt_study": "Alfred AI Prompt - Study",
+    "ai_prompt_tool": "Alfred AI Prompt - Tool",
 }
 
 
