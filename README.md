@@ -24,7 +24,7 @@ This repository documents my cognitive models, workflow templates, and technical
 | [1_学习知识](./1_学习知识) | 利用 AI 构建认知框架，内化新知识 | Learning frameworks with AI |
 | [2_解决方案](./2_解决方案) | 编程、写作、分析的标准化工作流 | Standardized workflows |
 | [3_技术相关](./3_技术相关) | MCP 协议、Agent 架构与技术原理 | MCP, Agent architecture |
-| [4_杂项](./4_杂项) | 归档资源及辅助内容 | Archives & misc |
+| [4_有意思存档](./4_有意思存档) | 有趣的存档资源 | Interesting archives |
 
 ## 快速开始 | Quick Start
 
@@ -36,6 +36,7 @@ This repository documents my cognitive models, workflow templates, and technical
 |------|------|
 | [Alfred_Code.md](./Alfred_Code.md) | 编程相关 Prompt |
 | [Alfred_Study.md](./Alfred_Study.md) | 学习相关 Prompt |
+| [Alfred_Tool.md](./Alfred_Tool.md) | 工具类通用 Prompt |
 
 ```bash
 # 同步 Alfred Snippets 到 Markdown
