@@ -8,7 +8,7 @@ import os
 from pathlib import Path
 
 # 配置
-ALFRED_SNIPPETS_BASE = Path.home() / "workspace/LevonConfig/App/Alfred/Alfred.alfredpreferences/snippets"
+ALFRED_SNIPPETS_BASE = Path.home() / "workspace/vault/alfred/Alfred.alfredpreferences/snippets"
 OUTPUT_DIR = Path(__file__).parent
 
 # 源文件夹 -> 输出文件名 映射
