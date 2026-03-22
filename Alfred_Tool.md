@@ -34,3 +34,7 @@ c. 看看哪些部分可以省略，精简或扩展
 ### 07_搜索skill
 
 使用 find-skills  搜索一个  {cursor}  的 skill
+
+### 08_ai agent 测试
+
+run autoresearch on my {cursor} skill.
