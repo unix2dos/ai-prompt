@@ -38,3 +38,7 @@ c. 看看哪些部分可以省略，精简或扩展
 ### 08_ai agent 测试
 
 run autoresearch on my {cursor} skill.
+
+### 09_圆桌讨论
+
+使用 ljg-roundtable skill ，圆桌讨论探讨一下 {cursor}
